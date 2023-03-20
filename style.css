@@ -113,3 +113,25 @@ body{
     padding: 2px;
     font-size: 12px;
 }
+
+.check{
+    color: green;
+    display: inline-block;
+    border: 1px solid green;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    font-size: 12px;
+    text-align: center;
+}
+
+.x {
+    color: red;
+    display: inline-block;
+    border: 1px solid red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    font-size: 12px;
+    text-align: center;
+}
