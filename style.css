@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: white;    
+}
+
+
+body{
+    background-color: rgb(242, 242, 242);
+}
+
+#contenitore-testo-principale {
+    margin: 8px auto;
+    width: 500px;
+    height: 200px;
+    background-color: rgb(242, 242, 242);
+ }
